@@ -1,3 +1,4 @@
+0.0.0.0 1applehealth.com
 0.0.0.0	10000.tw
 0.0.0.0	100lucky.net
 0.0.0.0	102like.com
